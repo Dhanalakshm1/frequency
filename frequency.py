@@ -16,6 +16,6 @@ occ = {}
 		print(f"{arg_max} - {currentMax}")
 		occ.pop(arg_max)
 		size -= 1
-Str = "geeksforgeeks"
+Str = "Mississippi"
 Len = len(Str)
 printChar(list(Str), Len)
